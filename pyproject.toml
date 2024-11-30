@@ -1,0 +1,6 @@
+[project]
+name = "arrakys-pre-commit"
+version = "0.0.0"
+dependencies = [
+    "arrakys==0.0.0",
+]

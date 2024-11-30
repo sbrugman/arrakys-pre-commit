@@ -1,0 +1,8 @@
+-   id: arrakys
+    name: arrakys
+    description: "Arrakys linter"
+    entry: arrakys
+    language: python
+    args: []
+    types: [python]
+    require_serial: true
